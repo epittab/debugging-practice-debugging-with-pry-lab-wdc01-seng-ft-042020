@@ -7,6 +7,7 @@ def snake_it_up(string)
       end
     else
     string
+    binding.pru
   end
   string
 end
